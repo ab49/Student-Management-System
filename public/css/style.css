@@ -1,0 +1,100 @@
+.panel-heading-cust{
+	background: #00b5ae!important;
+}
+.panel-heading-cust h2{
+	color: #fff;
+	margin:0px;
+}
+.panel-default-custom{
+	margin-top: 20px;
+}
+.btn-custom{
+	background: #00b5ae;
+	border-color:#00b5ae;
+	color: #fff;
+}
+.btn-custom:hover{
+	background: #00b5ae;
+	border-color:#00b5ae;
+	color: #fff;
+}
+.btn-link-custom{
+	color:#e96f53;
+}
+.btn-custom-margin{
+	margin-left: 10px
+}
+.block{
+	display: inline-block;
+}
+.navbar {
+  min-height: 80px;
+}
+.navbar-nav > li > a {
+	font-size: 20px;
+	margin-top: 20px;
+}
+.btn-link-custom-green{
+	color:#00b5ae;}
+.navbar-nav > li > .dropdown-menu-custom{
+	width: 200px;
+	margin-top: 9px;
+}
+.label-custom{
+	font-weight: bold;
+	font-size: 15px;
+}
+
+/*dashboard css*/
+.dashboard-icon span,.dashboard-icon span:hover{
+	font-size: 100px;
+	text-decoration: none;
+	color: #fff;
+}
+.dashboard-icon a,.dashboard-icon a:hover{
+	display: block;
+	text-decoration: none;
+	color: #fff;
+	font-size: 20px;
+	
+}
+.dashboard-icon{
+	background: #00b5ae;
+	text-align: center;
+}
+/*dashboard css*/
+
+/*panel css*/
+.dashboard-icon-panel span,.dashboard-icon-panel span:hover{
+	font-size: 80px;
+	text-decoration: none;
+	color: #00b5ae;
+}
+.dashboard-icon-panel a,.dashboard-icon-panel a:hover{
+	display: block;
+	text-decoration: none;
+	color: #00b5ae;
+	font-size: 15px;
+	
+}
+.dashboard-icon-panel{
+	border: 2px solid #00b5ae;
+	border-radius: 200px;
+	text-align: center;
+	margin-bottom: 10px;
+	padding-bottom: 20px;
+}
+.header-create,.header-create:hover{
+	font-size: 20px;
+	text-decoration: none;
+}
+/*panel css*/
+
+/*chart css*/
+.chart {
+  position: relative;
+  width: 450px;
+  height: 450px;
+  margin-left: 25%;
+}
+/*chart css*/
